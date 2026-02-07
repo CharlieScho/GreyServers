@@ -25,8 +25,8 @@ namespace GreyServers.Patches
         static void Prefix(ref AppSettings appSettings)
         {
             Debug.Log("setting appid");
-            appSettings.AppIdRealtime = "7ef2fd75-edeb-4e41-9af1-cff0e7f07b3f";
-            appSettings.AppIdVoice = "16818aa8-e19f-4cb0-a8ce-4a1fdf0ea451";
+            appSettings.AppIdRealtime = "7cd85025-b15f-4d50-9247-59c978b147d9";
+            appSettings.AppIdVoice = "648aa6ae-c571-49ca-9994-89ef43f4d47d";
         }
     }
 
